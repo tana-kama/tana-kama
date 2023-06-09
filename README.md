@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tana-kama
+- 👋 Hi, I’m @tana-kama ("תנא קמא")
 - 👀 I’m interested in coding and automation, although I don't know too much about these...
 - 🌱 I hope to begin learning JavaScript, Python, and everything...
-- 💞️ I’m currently collaborate on developing and editing the Yiddish Hamichlol
+- 💞️ I’m currently collaborating on developing and editing the Yiddish Hamichlol
 <!---- 📫 How to reach me ...--->
 
